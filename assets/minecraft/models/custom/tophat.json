@@ -2,8 +2,8 @@
 	"credit": "Made by Xiques_L",
 	"texture_size": [128, 128],
 	"textures": {
-		"1": "custom/tophat",
-		"2": "custom/diamond"
+		"4": "custom/tophat",
+		"5": "custom/diamond"
 	},
 	"elements": [
 		{
