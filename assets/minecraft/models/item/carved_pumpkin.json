@@ -4,8 +4,6 @@
     {"predicate": {"custom_model_data": 1}, "model": "custom/crown"},
     {"predicate": {"custom_model_data": 2}, "model": "custom/glasses"},
     {"predicate": {"custom_model_data": 3}, "model": "custom/dream_mask"},
-    {"predicate": {"custom_model_data": 4}, "model": "custom/dino-hat"},
-    {"predicate": {"custom_model_data": 5}, "model": "custom/mushroom_hat"},
-    {"predicate": {"custom_model_data": 6}, "model": "custom/tophat"}
+    {"predicate": {"custom_model_data": 4}, "model": "custom/tophat"}
   ]
 }
