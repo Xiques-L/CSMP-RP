@@ -1,9 +1,9 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Made by Xiques_L",
 	"textures": {
-		"0": "permit-gold",
-		"1": "wax2",
-		"particle": "permit-gold"
+		"0": "custom/permit-gold",
+		"1": "custom/wax2",
+		"particle": "custom/permit-gold"
 	},
 	"elements": [
 		{
