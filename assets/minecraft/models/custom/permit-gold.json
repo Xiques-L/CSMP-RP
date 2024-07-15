@@ -1,9 +1,9 @@
 {
 	"credit": "Made by Xiques_L",
 	"textures": {
-		"0": "custom/permit-gold",
-		"1": "custom/wax2",
-		"particle": "custom/permit-gold"
+		"0": "custom/permits/permit-gold",
+		"1": "custom/permits/wax2",
+		"particle": "custom/permits/permit-gold"
 	},
 	"elements": [
 		{
