@@ -1,6 +1,14 @@
 {
   "pack": {
-    "pack_format": 34,
-    "description": "\u00A74■ Custom RP for Pixel SMP!\u00A7r\n■ By Xiques_L"
+    "pack_format": 64,
+    "supported_formats": {
+      "min_inclusive": 64,
+      "max_inclusive": 999
+    },
+    "description": [
+      {
+        "translate": "A Resource Pack for Corrupt SMP\nMade by: Xiques_L"
+      }
+    ]
   }
 }
